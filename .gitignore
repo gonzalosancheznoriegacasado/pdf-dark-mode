@@ -1,0 +1,24 @@
+# Entornos virtuales de Python (contienen ejecutables y rutas personales)
+.venv/
+venv/
+ENV/
+env/
+
+# Bytecode y cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Archivos de sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Accesos directos de Windows
+*.lnk
+
+# Archivos temporales o de salida (opcional, descomentar si no se quieren subir PDFs generados)
+# *_dark.pdf
